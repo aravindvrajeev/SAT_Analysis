@@ -50,4 +50,4 @@ This project examines the relationship between SAT participation rates and total
 
 ## 🔗 Project
 
-[Add GitHub notebook link]
+https://github.com/aravindvrajeev/SAT_Analysis/blob/main/sat_analysis.ipynb
