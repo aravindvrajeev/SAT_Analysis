@@ -17,7 +17,7 @@ This project examines the relationship between SAT participation rates and total
 
 - Created total SAT score from math, reading, and writing components  
 - Cleaned dataset and handled missing values  
-- Conducted exploratory data analysis using Python (pandas, matplotlib)  
+- Conducted exploratory data analysis using Python  
 - Visualized participation vs performance relationships  
 - Performed borough-level comparisons  
 
@@ -43,7 +43,7 @@ This project examines the relationship between SAT participation rates and total
 
 ## 🧰 Tools Used
 
-- Python (pandas, matplotlib)
+- Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
 
 ---
