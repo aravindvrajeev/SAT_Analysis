@@ -39,8 +39,8 @@ This project examines the relationship between SAT participation rates and total
 
 ---
 
-## Screenshot:
-<img width="471" height="564" alt="sat_scatter" src="https://github.com/user-attachments/assets/85b808b2-baf5-48a7-be99-b3c9f57c37d9" />
+## Screenshot
+<img width="571" height="564" alt="sat_scatter" src="https://github.com/user-attachments/assets/85b808b2-baf5-48a7-be99-b3c9f57c37d9" />
 
 
 ## Project
