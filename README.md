@@ -1,29 +1,20 @@
 # SAT Performance Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project examines the relationship between SAT participation rates and total SAT performance across NYC public schools. It also explores how this relationship varies across boroughs.
 
 ---
 
-## 🎯 Key Questions
+## Key Questions
 
 - How does SAT participation relate to performance?
 - Does this relationship vary across boroughs?
 
----
-
-## 🛠️ Methodology
-
-- Created total SAT score from math, reading, and writing components  
-- Cleaned dataset and handled missing values  
-- Conducted exploratory data analysis using Python  
-- Visualized participation vs performance relationships  
-- Performed borough-level comparisons  
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - Higher SAT participation is associated with higher SAT performance  
 - The relationship varies across boroughs  
@@ -33,7 +24,7 @@ This project examines the relationship between SAT participation rates and total
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Missing values in participation data  
 - No socioeconomic variables included  
@@ -41,13 +32,17 @@ This project examines the relationship between SAT participation rates and total
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
 
 ---
 
-## 🔗 Project
+## Screenshot:
+<img width="1471" height="1564" alt="sat_scatter" src="https://github.com/user-attachments/assets/85b808b2-baf5-48a7-be99-b3c9f57c37d9" />
+
+
+## Project
 
 https://github.com/aravindvrajeev/SAT_Analysis/blob/main/sat_analysis.ipynb
